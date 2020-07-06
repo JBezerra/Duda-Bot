@@ -1,0 +1,13 @@
+# MACOS Junk
+.DS_Store
+
+# VirtualEnv files
+lib/
+pyvenv.cfg
+
+# Ngrok files
+bin/
+ngrok
+
+# Credentials File
+src/config.py
